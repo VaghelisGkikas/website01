@@ -1,1 +1,1 @@
-# A website thet showcaes my wed development knowledge
+# A website thet showcases my web development knowledge
