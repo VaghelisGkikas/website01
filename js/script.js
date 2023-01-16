@@ -1,6 +1,8 @@
-var apiKey = "62e41f5e9a714311aa8c7649f9114182"
+var apiKey = "&apikey=62e41f5e9a714311aa8c7649f9114182"
 
-var request = ""
+var website = "https://newsapi.org/v2/"
+var endpoint = "everything?"
+var request = website + endpoint + apiKey
 
 function get_request() {
     var xhttp = new XMLHttpRequest();
