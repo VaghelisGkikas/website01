@@ -50,3 +50,7 @@ body {
     display: flex;
     justify-content: end;
 }
+
+.logo {
+    max-width: 64px;
+}
